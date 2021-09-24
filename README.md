@@ -1,2 +1,3 @@
 # SampleRepo
 sample repo
+yes
